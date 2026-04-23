@@ -1,4 +1,4 @@
-# Lexify 🛡️
+# Lexify AI 🛡️
 
 **Understand Before You Sign.**
 
@@ -10,7 +10,7 @@
 
 ## 📖 Introduction
 
-Legal documents are notorious for being intentionally dense, confusing, and overwhelming. **Lexify** is an AI-powered LegalTech platform designed to level the playing field. By instantly parsing complex contracts like rental agreements and Terms of Service (ToS), Lexify acts as your personal legal assistant—translating archaic jargon into plain English, flagging hidden risks.
+Legal documents are notorious for being intentionally dense, confusing, and overwhelming. **Lexify AI** is an AI-powered LegalTech platform designed to level the playing field. By instantly parsing complex contracts like rental agreements and Terms of Service (ToS), Lexify acts as your personal legal assistant—translating archaic jargon into plain English, flagging hidden risks.
 
 ## ⚠️ Problem Statement
 
@@ -20,7 +20,7 @@ Legal documents are notorious for being intentionally dense, confusing, and over
 
 ## 💡 Solution Overview
 
-Lexify bridges the gap between complex legal documents and everyday consumers. Users simply upload a PDF or paste their contract text. Our AI engine scans the document clause-by-clause, categorizes risks using a visual traffic-light system, provides simplified explanations.
+Lexify AI bridges the gap between complex legal documents and everyday consumers. Users simply upload a PDF or paste their contract text. Our AI engine scans the document clause-by-clause, categorizes risks using a visual traffic-light system, provides simplified explanations.
 
 -----
 
