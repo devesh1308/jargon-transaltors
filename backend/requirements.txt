@@ -7,4 +7,4 @@ python-multipart==0.0.6  # Required by FastAPI for File uploads
 pdfplumber==0.10.3
 
 # Machine Learning
-scikit-learn==1.3.2
+scikit-learn

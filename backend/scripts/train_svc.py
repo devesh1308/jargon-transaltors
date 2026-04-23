@@ -86,7 +86,7 @@ with open(pipeline_path, "wb") as f:
 # 7. Recreate the dictionary and save to config
 clause_dictionary = {
     "Safe": "✅ Standard practice. Protects both parties fairly.",
-    "Caution": "⚠️ Pay attention. Ensure terms like 'minor repairs' are strictly defined.",
+    "Caution": "⚠️ Pay attention.",
     "Predatory": "🚨 RED FLAG. Highly illegal or heavily favors the other party. Negotiate immediately."
 }
 
